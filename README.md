@@ -10,8 +10,6 @@
     <img src="./img/Unity.png" alt="Unity Hub" width="40px">
 </div>
 
-> C · Python · Embedded · PCB · AI
-
 ### Focus
 - MCU / FPGA
 - PCB Design / Layout
